@@ -1,0 +1,23 @@
+#fpmngr_div {
+	display: none;
+}
+
+#dashboard_fpmngr h4 {
+	font-family: 'Lucida Grande', Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	margin: 15px 0 5px;
+}
+
+#fpmngr_list li span {
+	display: none;
+	margin-left: 10px;
+	color: #21759b;
+	cursor: pointer;
+}
+
+#fpmngr_list li:hover span {
+	display: inline;
+}
+
+#fpmngr_list li:hover span:hover {
+	color: #D54E21;
+}
