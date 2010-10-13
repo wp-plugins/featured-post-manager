@@ -4,7 +4,7 @@ Tags: feature, featured, post, posts, manager, plugin, category, categories
 Donate link: http://coley.co
 Requires at least: 2.0.2
 Tested up to: 3.0.1
-Stable tag: 1.0
+Stable tag: trunk
 Version: 1.0
 
 Let's you select a specific category for featured posts, and manage those selections on the WordPress dashboard.
